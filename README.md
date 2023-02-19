@@ -1,4 +1,3 @@
-# YHO_Portfolio
 # Project 1: AUTO SALES DASHBOARD
 
 * DATA was taken from KAGGLE DATASETS
