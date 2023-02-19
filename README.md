@@ -9,5 +9,6 @@
 * Highest Brand Seller VOLKSWAGEN
 * ANDERE is the most used fuel type with a Total of 2bn 
 
-# POWER BI IMAGE SHOWING THE INSIGHTS FROM THE DATA ![](Images/Autosales.jpg)
+# POWER BI IMAGE SHOWING THE INSIGHTS FROM THE DATA
+## [Auto Sales Dashboard](Images/Autosales.jpg)
 
