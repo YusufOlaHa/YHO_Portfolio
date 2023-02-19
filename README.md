@@ -11,3 +11,16 @@
 # POWER BI IMAGE SHOWING THE INSIGHTS FROM THE DATA
 ![](Images/AutoSales.jpg)
 
+# Project 2: REAL ESTATE SALES DASHBOARD
+
+* DATA was taken from KAGGLE DATASETS
+* Total Amount of Properties Sold is 390 Billion
+* Total Profit made is 112 Billion
+* Singe Family has the Highest Sales By Residential Type(at 80.79%)
+* Total Profits of 45 Billion was made on total sales of Single Family Type
+* GREENWICH town has the highest Sales (25 Billion)
+*APARTMENT have the second highest profit made and also the highest on Average sales
+
+# POWER BI IMAGE SHOWING THE INSIGHTS FROM THE DATA
+![](Images/AutoSales.jpg)
+
