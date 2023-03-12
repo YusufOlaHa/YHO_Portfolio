@@ -29,10 +29,10 @@
 * DATA was taken from KAGGLE DATASETS
 * Total profit made is 35.34M
 * Total Amount of Sales is 71.54M
-* Russia has the highest Sales and Highes Profit Made at 14.76M
+* Russia has the highest Sales and highest Profit Made at 14.76M
 * Russia Has the highest Units Produce in Litres at 43.3% and Pieces at 56.64%
 * By Vendor Code Jaws Beer Product Has The Highest Sales Followed by AF Brew
 
 # DATA DASHBOARD
-![](Images/Beer_Product_Analysis)
+![](Images/Beer_Product_Analysis.JPG)
 
